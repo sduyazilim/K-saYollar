@@ -1,1 +1,3 @@
-
+ - CTRL + Shift + C = Terminalde seçili metni kopyalar
+ - CTRL + Shift + V = Kopyalanan veriyi yapıştırır.
+ - CTRL + L         = Terminal ekranını temizler
